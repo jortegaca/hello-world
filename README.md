@@ -1,3 +1,3 @@
 # hello-world
 Starting github
-I love Clojure, Go, Elixir, Perl6, JavaScript and Ruby
+I love Raku, Clojure, Common Lisp, Go, Rust, Elixir, JavaScript and Ruby
